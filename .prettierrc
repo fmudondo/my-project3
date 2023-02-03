@@ -1,0 +1,9 @@
+$ echo "{}" > .prettierrc
+{
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  }
+} 
